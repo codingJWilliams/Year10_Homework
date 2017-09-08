@@ -7,7 +7,12 @@
   "datein":  1505430000,
   "tasks": [
     {
-      "type": "online",
+      "type": "hegartymaths",
+      "lesson_number": "66",
+      "workbook_pages": [
+        "book/1.png"
+      ],
+      "score": 100,
       "title": "66 - Add or subtract fractions (different denominator)",
       "url": "https://hegartymaths.com/add-or-subtract-fractions-different-denominator"
     }
