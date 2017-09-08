@@ -1,0 +1,15 @@
+{
+  "class": "10x/Ma1",
+  "id": "002",
+  "teacher": "MSU",
+  "lesson": "Maths",
+  "dategiven": 1504825200,
+  "datein":  1505430000,
+  "tasks": [
+    {
+      "type": "online",
+      "title": "66 - Add or subtract fractions (different denominator)",
+      "url": "https://hegartymaths.com/add-or-subtract-fractions-different-denominator"
+    }
+  ]
+}
