@@ -1,21 +1,19 @@
 {
-  "class": "10x/Sp1",
-  "id": "004",
-  "teacher": "SML",
-  "lesson": "Spanish",
-  "dategiven": 1505170800,
-  "datein":  1505775600,
-  "tasks": [
-    {
-      "type": "revision",
-      "title": "Balancing Equations PPQ",
-      "instructions": "Complete the worksheet. Research using the internet.",
-      "help_links": [
-        "https://conjuguemos.com/verb/139",
-        "https://conjuguemos.com/verb/138",
-        "https://conjuguemos.com/verb/137",
-        "https://conjuguemos.com/verb/136"
-      ]
-    }
-  ]
+	"class": "10x/Sp1",
+	"id": "004",
+	"teacher": "SML",
+	"lesson": "Spanish",
+	"dategiven": 1505170800,
+	"datein": 1505775600,
+	"tasks": [{
+		"type": "revision",
+		"title": "Balancing Equations PPQ",
+		"instructions": "Complete the worksheet. Research using the internet.",
+		"help_links": [
+			"https://conjuguemos.com/verb/139",
+			"https://conjuguemos.com/verb/138",
+			"https://conjuguemos.com/verb/137",
+			"https://conjuguemos.com/verb/136"
+		]
+	}]
 }
