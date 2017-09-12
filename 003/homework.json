@@ -1,0 +1,21 @@
+{
+  "class": "10x/Sc2",
+  "id": "003",
+  "teacher": "SNE",
+  "lesson": "Science",
+  "dategiven": 1505170800,
+  "datein":  1505775600,
+  "tasks": [
+    {
+      "type": "worksheet",
+      "title": "Balancing Equations PPQ",
+      "instructions": "Complete the worksheet. Research using the internet.",
+      "incomplete": [
+        "incomplete/sheet.jpg"
+      ],
+      "complete": [
+        "complete/sheet.jpg",
+      ]
+    }
+  ]
+}
