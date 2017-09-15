@@ -1,0 +1,30 @@
+{
+  "class": "10x/Ma1",
+  "id": "005",
+  "teacher": "MSU",
+  "lesson": "Maths",
+  "dategiven": 1505430000,
+  "datein":  1506034800,
+  "tasks": [
+    {
+      "type": "hegartymaths",
+      "lesson_number": "69",
+      "workbook_pages": [
+        "book/1.png"
+      ],
+      "score": 100,
+      "title": "69 - Multiplying fractions 2",
+      "url": "https:\/\/hegartymaths.com/multiplying-fractions-2"
+    },
+    {
+      "type": "hegartymaths",
+      "lesson_number": "70",
+      "workbook_pages": [
+        "book/2.png"
+      ],
+      "score": 100,
+      "title": "70 - Dividing fractions",
+      "url": "https:\/\/hegartymaths.com/dividing-fractions"
+    }
+  ]
+}
