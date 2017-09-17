@@ -1,0 +1,17 @@
+{
+  "class": "10GB",
+  "id": "006",
+  "teacher": "SEC",
+  "lesson": "Form Time",
+  "dategiven": 1505430000,
+  "datein": 1505689200,
+  "tasks": [{
+    "type": "other",
+    "title": "Prefect Application Letter",
+    "instructions": "Write a letter with the title: If you were a prefect, how could you help improve NBA?",
+    "attatchments": [
+      "attatchments/letter.docx",
+      "attatchments/letter.pdf"
+    ]
+  }]
+}
