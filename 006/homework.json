@@ -10,7 +10,6 @@
     "title": "Prefect Application Letter",
     "instructions": "Write a letter with the title: If you were a prefect, how could you help improve NBA?",
     "attatchments": [
-      "attatchments/letter.docx",
       "attatchments/letter.pdf"
     ]
   }]
