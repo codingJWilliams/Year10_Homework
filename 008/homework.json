@@ -1,0 +1,21 @@
+{
+  "class": "10x/Sc2",
+  "id": "008",
+  "teacher": "SNE",
+  "lesson": "Science",
+  "dategiven": 1505862000,
+  "datein":  1506466800,
+  "tasks": [
+    {
+      "type": "worksheet",
+      "title": "AQA Test Extract",
+      "instructions": "Complete the worksheet. Research using the internet.",
+      "incomplete": [
+        "incomplete/sheet.png"
+      ],
+      "complete": [
+        "complete/sheet.jpg"
+      ]
+    }
+  ]
+}
