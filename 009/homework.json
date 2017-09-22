@@ -1,0 +1,30 @@
+{
+  "class": "10x/Ma1",
+  "id": "009",
+  "teacher": "MSU",
+  "lesson": "Maths",
+  "dategiven": 1506034800,
+  "datein":  1506639600,
+  "tasks": [
+    {
+      "type": "hegartymaths",
+      "lesson_number": "52",
+      "workbook_pages": [
+        "book/1.png"
+      ],
+      "score": 100,
+      "title": "52 - Convert simple decimals to fractions",
+      "url": "https:\/\/hegartymaths.com/convert-simple-decimals-to-fractions"
+    },
+    {
+      "type": "hegartymaths",
+      "lesson_number": "125",
+      "workbook_pages": [
+        "book/2.png"
+      ],
+      "score": 100,
+      "title": "125 - Multiplying with standard form",
+      "url": "https:\/\/hegartymaths.com/multiplying-with-standard-form"
+    }
+  ]
+}
