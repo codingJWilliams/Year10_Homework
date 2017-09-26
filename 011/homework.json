@@ -1,0 +1,18 @@
+{
+  "class": "10-Agard",
+  "id": "011",
+  "teacher": "BCH",
+  "lesson": "English",
+  "dategiven": 1506380400,
+  "datein":  1504393200,
+  "tasks": [
+    {
+      "type": "revision",
+      "help_links": [
+        "https:\/\/raw.githubusercontent.com/codingJWilliams/Year10_Homework/master/011/attatchments/booklet.pdf"
+      ],
+      "title": "Shakespearean Devices",
+      "instructions": "Learn thsese devices ready for the test on next Tuesday"
+    }
+  ]
+}
