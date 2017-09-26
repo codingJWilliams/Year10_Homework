@@ -1,0 +1,14 @@
+{
+  "class": "10x/Sc2",
+  "id": "010",
+  "teacher": "SNE",
+  "lesson": "Science",
+  "dategiven": 1506294000,
+  "datein": 1506898800,
+  "tasks": [{
+    "type": "revision",
+    "title": "Revise energy stores",
+    "instructions": "Revise: Energy transfers, stored energy, useful and wasted energy, what happens to waste energy, problems with friction, calculating efficiency",
+    "help_links": ["https:\/\/raw.githubusercontent.com/codingJWilliams/Year10_Homework/master/010/attatchments/board.jpg"]
+  }]
+}
