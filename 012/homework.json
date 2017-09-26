@@ -1,0 +1,18 @@
+{
+  "class": "10C/Sp1",
+  "id": "012",
+  "teacher": "FCA",
+  "lesson": "Spanish",
+  "dategiven": 1506380400,
+  "datein":  1504393200,
+  "tasks": [{
+    "type": "worksheet",
+    "title": "Preterite Tense",
+    "instructions": "Complete the worksheet.",
+    "incomplete": [
+      "incomplete/sheet.jpg"
+    ],
+    "complete": [
+    ]
+  }]
+}
