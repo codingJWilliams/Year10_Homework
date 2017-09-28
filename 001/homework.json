@@ -14,6 +14,7 @@
         {
           "display_name": "Worksheet",
           "path_type": "project",
+          "type": "image",
           "path": "incomplete/sheet.png"
         }
       ],
