@@ -19,7 +19,24 @@
         }
       ],
       "complete": [
-
+        {
+          "display_name": "Completed Document",
+          "path_type": "project",
+          "type": "worksheet",
+          "path": "complete/answers.pdf"
+        },
+        {
+          "display_name": "Drawing of palisade cell",
+          "path_type": "project",
+          "type": "image",
+          "path": "complete/palisade.png"
+        },
+        {
+          "display_name": "Drawing of sperm cell",
+          "path_type": "project",
+          "type": "image",
+          "path": "complete/sperm.png"
+        }
       ]
     }
   ]
