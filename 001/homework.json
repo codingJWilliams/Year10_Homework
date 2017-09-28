@@ -11,12 +11,14 @@
       "title": "Specialised Cells HW",
       "instructions": "Complete the worksheet. Research using the internet.",
       "incomplete": [
-        "incomplete/sheet.png"
+        {
+          "display_name": "Worksheet",
+          "path_type": "project",
+          "path": "incomplete/sheet.png"
+        }
       ],
       "complete": [
-        "complete/answers.pdf",
-        "complete/palisade.png",
-        "complete/sperm.png"
+
       ]
     }
   ]
