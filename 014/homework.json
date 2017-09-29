@@ -10,7 +10,8 @@
       "type": "hegartymaths",
       "lesson_number": "509",
       "workbook_pages": [
-        "book/1.png"
+        "book/2a.jpg",
+        "book/2b.jpg"
       ],
       "score": 100,
       "title": "509 - Trigonometry (find side) (1)",
@@ -20,7 +21,8 @@
       "type": "hegartymaths",
       "lesson_number": "511",
       "workbook_pages": [
-        "book/2.png"
+        "book/3a.jpg",
+        "book/3b.jpg"
       ],
       "score": 100,
       "title": "511 - Trigonometry (find angle) (1)",
@@ -30,7 +32,7 @@
       "type": "hegartymaths",
       "lesson_number": "50",
       "workbook_pages": [
-        "book/3.png"
+        "book/1.jpg"
       ],
       "score": 100,
       "title": "50 - Division of decimals",
