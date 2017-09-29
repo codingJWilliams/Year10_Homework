@@ -1,0 +1,21 @@
+{
+  "class": "10A/Cs1",
+  "id": "013",
+  "teacher": "SSA",
+  "lesson": "Computer Science",
+  "dategiven": 1506553200,
+  "datein": 1507158000,
+  "tasks": [
+    {
+      "type": "worksheet",
+      "complete": [
+
+      ],
+      "incomplete": [
+        "task/task.png"
+      ],
+      "title": "Network choice",
+      "instructions": "Complete the worksheet. Research using the internet if needed.",
+    }
+  ]
+}
