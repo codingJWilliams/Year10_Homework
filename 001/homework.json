@@ -11,32 +11,12 @@
       "title": "Specialised Cells HW",
       "instructions": "Complete the worksheet. Research using the internet.",
       "incomplete": [
-        {
-          "display_name": "Worksheet",
-          "path_type": "project",
-          "type": "image",
-          "path": "incomplete/sheet.png"
-        }
+        "incomplete/sheet.png"
       ],
       "complete": [
-        {
-          "display_name": "Completed Document",
-          "path_type": "project",
-          "type": "worksheet",
-          "path": "complete/answers.pdf"
-        },
-        {
-          "display_name": "Drawing of palisade cell",
-          "path_type": "project",
-          "type": "image",
-          "path": "complete/palisade.png"
-        },
-        {
-          "display_name": "Drawing of sperm cell",
-          "path_type": "project",
-          "type": "image",
-          "path": "complete/sperm.png"
-        }
+        "complete/answers.pdf",
+        "complete/palisade.png",
+        "complete/sperm.png"
       ]
     }
   ]
