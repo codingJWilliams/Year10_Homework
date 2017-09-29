@@ -1,0 +1,40 @@
+{
+  "class": "10x/Ma1",
+  "id": "005",
+  "teacher": "MSU",
+  "lesson": "Maths",
+  "dategiven": 1506639600,
+  "datein":  1507244400,
+  "tasks": [
+    {
+      "type": "hegartymaths",
+      "lesson_number": "509",
+      "workbook_pages": [
+        "book/1.png"
+      ],
+      "score": 100,
+      "title": "509 - Trigonometry (find side) (1)",
+      "url": "https:\/\/hegartymaths.com/trigonometry-find-side-1"
+    },
+    {
+      "type": "hegartymaths",
+      "lesson_number": "511",
+      "workbook_pages": [
+        "book/2.png"
+      ],
+      "score": 100,
+      "title": "511 - Trigonometry (find angle) (1)",
+      "url": "https:\/\/hegartymaths.com/trigonometry-find-angle-1"
+    },
+    {
+      "type": "hegartymaths",
+      "lesson_number": "50",
+      "workbook_pages": [
+        "book/3.png"
+      ],
+      "score": 100,
+      "title": "50 - Division of decimals",
+      "url": "https:\/\/hegartymaths.com/division-of-decimals"
+    }
+  ]
+}
