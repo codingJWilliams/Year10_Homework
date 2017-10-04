@@ -1,0 +1,21 @@
+{
+  "class": "10C/Sp1",
+  "id": "015",
+  "teacher": "SML",
+  "lesson": "Spanish",
+  "dategiven": 1506898800,
+  "datein": 1507503600,
+  "tasks": [
+    {
+      "type": "worksheet",
+      "title": "90 Words Holiday Message",
+      "instructions": "Your spanish friend has asked you about your holidays.",
+      "incomplete": [
+        "incomplete/sheet.png"
+      ],
+      "complete": [
+        "complete/complete.pdf"
+      ]
+    }
+  ]
+}
