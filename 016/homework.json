@@ -1,0 +1,21 @@
+{
+  "class": "10x/Sc2",
+  "id": "016",
+  "teacher": "SNE",
+  "lesson": "Science",
+  "dategiven": 1507071600,
+  "datein": 1507676400,
+  "tasks": [
+    {
+      "type": "worksheet",
+      "title": "Stem Cells PPQ",
+      "instructions": "Complete the sheet.",
+      "incomplete": [
+        "incomplete/sheet.jpg"
+      ],
+      "complete": [
+        "complete/sheet.jpg"
+      ]
+    }
+  ]
+}
