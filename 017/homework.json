@@ -1,17 +1,30 @@
 {
-    "class": "10x/Sc2",
+    "class": "10x/Ma1",
     "id": "017",
-    "teacher": "SNE",
-    "lesson": "Science",
-    "dategiven": 1507071600,
-    "datein": 1507676400,
+    "teacher": "MSU",
+    "lesson": "Maths",
+    "dategiven": 1506034800,
+    "datein": 1506639600,
     "tasks": [{
-        "type": "worksheet",
-        "title": "Fullerenes and Graphene",
-        "instructions": "Complete the sheet.",
-        "incomplete": [],
-        "complete": [
-            "complete/sheet.jpg"
-        ]
-    }]
+            "type": "hegartymaths",
+            "lesson_number": "162",
+            "workbook_pages": [
+                "book/1a.jpg",
+                "book/1b.jpg"
+            ],
+            "score": 100,
+            "title": "162 - Expand double brackets 1",
+            "url": "https:\/\/hegartymaths.com/expand-double-brackets-1"
+        },
+        {
+            "type": "hegartymaths",
+            "lesson_number": "158",
+            "workbook_pages": [
+                "book/2.jpg"
+            ],
+            "score": 100,
+            "title": "158 - Simplifying expressions involving multiplication",
+            "url": "https:\/\/hegartymaths.com/simplifying-expressions-involving-multiplication"
+        }
+    ]
 }

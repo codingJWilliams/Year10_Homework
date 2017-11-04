@@ -1,17 +1,15 @@
 {
     "class": "10x/Sc2",
-    "id": "016",
+    "id": "018",
     "teacher": "SNE",
     "lesson": "Science",
     "dategiven": 1507071600,
     "datein": 1507676400,
     "tasks": [{
         "type": "worksheet",
-        "title": "Stem Cells PPQ",
+        "title": "Fullerenes and Graphene",
         "instructions": "Complete the sheet.",
-        "incomplete": [
-            "incomplete/sheet.jpg"
-        ],
+        "incomplete": [],
         "complete": [
             "complete/sheet.jpg"
         ]
