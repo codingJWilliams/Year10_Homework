@@ -1,0 +1,29 @@
+{
+    "class": "10x/Ma1",
+    "id": "019",
+    "teacher": "MSU",
+    "lesson": "Maths",
+    "dategiven": 1509667200,
+    "datein": 1510272000,
+    "tasks": [{
+            "type": "hegartymaths",
+            "lesson_number": "67",
+            "workbook_pages": [
+                "book/1.jpg"
+            ],
+            "score": 100,
+            "title": "67 - Multiply whole number by fractions",
+            "url": "https:\/\/hegartymaths.com/multiply-whole-number-by-fractions"
+        },
+        {
+            "type": "hegartymaths",
+            "lesson_number": "68",
+            "workbook_pages": [
+                "book/2.jpg"
+            ],
+            "score": 100,
+            "title": "68 - Multiplying fractions 1",
+            "url": "https:\/\/hegartymaths.com/multiplying-fractions-1"
+        }
+    ]
+}
