@@ -1,0 +1,21 @@
+{
+    "class": "10C/Sp1",
+    "id": "020",
+    "teacher": "FCA",
+    "lesson": "Spanish",
+    "dategiven": 1510617600,
+    "datein": 1511222400,
+    "tasks": [
+      {
+        "type": "worksheet",
+        "title": "Michelito",
+        "instructions": "Complete the sheet.",
+        "incomplete": [
+        ],
+        "complete": [
+          "complete/complete.pdf"
+        ]
+      }
+    ]
+  }
+  
